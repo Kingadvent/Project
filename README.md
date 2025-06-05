@@ -45,15 +45,17 @@ Desenvolvido meu primeiro portfólio, onde exercitei e treinei alguns conceitos 
 - [x] implementado seleção de dark e light mode para visualização da página.
 <br>
 
-- Acesse o projeto finalizado, [clicando aqui](https://fernandoalvesrufino.github.io/meu-portfolio/).
 
 ## 🔖 Layout
 
 ### Projeto Lanchonete
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/proto/14THGQ55QUeIZw5aKgkffO/king?node-id=0-1&t=yg9xWCXVAfhJzx5n-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
+
 ### Projeto Gestão de Estoque
 Você pode visualizar o sistema do projeto através [DESSE LINK](https://www.figma.com/proto/14THGQ55QUeIZw5aKgkffO/king?node-id=0-1&t=yg9xWCXVAfhJzx5n-1).
+
+
 
 ## 📖 Resumo
 
