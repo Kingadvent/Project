@@ -45,6 +45,7 @@ Desenvolvido meu primeiro portfólio, onde exercitei e treinei alguns conceitos 
 
 ## 🔖 Layout
 <br>
+
 ### Projeto Lanchonete
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/proto/14THGQ55QUeIZw5aKgkffO/king?node-id=0-1&t=yg9xWCXVAfhJzx5n-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 <br><br>
