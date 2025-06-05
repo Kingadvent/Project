@@ -47,10 +47,20 @@ Desenvolvido meu primeiro portfólio, onde exercitei e treinei alguns conceitos 
 
 ### Projeto Lanchonete
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/proto/14THGQ55QUeIZw5aKgkffO/king?node-id=0-1&t=yg9xWCXVAfhJzx5n-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
 <br><br>
 
 ### Projeto Gestão de Estoque
-Você pode visualizar o sistema do projeto através [DESSE LINK](https://www.figma.com/proto/14THGQ55QUeIZw5aKgkffO/king?node-id=0-1&t=yg9xWCXVAfhJzx5n-1).
+Você pode visualizar o sistema do projeto através [DESSE LINK](https://github.com/Kingadvent/gestao-de-estoque/tree/projeto).
+<br>
+
+#### Fotos
+
+- [Login](./Gestao_De_Estoque/1.png) - [Cadastro](./Gestao_De_Estoque/2.png) - [Home](./Gestao_De_Estoque/3.png) - [Usuario](./Gestao_De_Estoque/4.png)
+
+- [Vendas](./Gestao_De_Estoque/5.png) - [Cadastro de Produtos](./Gestao_De_Estoque/6.png) - [Cadastro de Categorias](./Gestao_De_Estoque/7.png)
+
+- [Cadastro de Fornecedor](./Gestao_De_Estoque/8.png) - [Relatorios](./Gestao_De_Estoque/9.png) - [Gerenciamento](./Gestao_De_Estoque/10.png)
 
 <br>
 
