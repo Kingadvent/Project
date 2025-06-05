@@ -32,6 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Lua
 - Git e Github
 <br>
+
 ## 💻 Projeto
 
 Desenvolvido meu primeiro portfólio, onde exercitei e treinei alguns conceitos aprendidos com as tecnologias utilizadas. 
@@ -52,7 +53,6 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ### Projeto Gestão de Estoque
 Você pode visualizar o sistema do projeto através [DESSE LINK](https://www.figma.com/proto/14THGQ55QUeIZw5aKgkffO/king?node-id=0-1&t=yg9xWCXVAfhJzx5n-1).
-<br>
 <br>
 
 ## 📖 Resumo
