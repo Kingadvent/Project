@@ -11,7 +11,7 @@ Esse é o meu portfólio pessoal, onde falo um pouco sobre mim e apresento algun
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-resumo">Resumo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-curriculo">Currículo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-currículo">Currículo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -72,6 +72,7 @@ Você pode visualizar o sistema do projeto através [DESSE LINK](https://github.
  para aplicar meus conhecimentos em projetos desafiadores e continuar evoluindo na área de desenvolvimento de sistemas. Ultimo emprego cuidado do site
  e do instagram da loja grafica onde vendemos artes e projetos 3d criado por nos.
 
+<br>
 ## 💻 Currículo
 
 - Acessar [Link](./curriculo_vanderley.pdf)
