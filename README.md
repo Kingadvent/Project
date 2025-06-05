@@ -73,6 +73,7 @@ Você pode visualizar o sistema do projeto através [DESSE LINK](https://github.
  e do instagram da loja grafica onde vendemos artes e projetos 3d criado por nos.
 
 <br>
+
 ## 💻 Currículo
 
 - Acessar [Link](./curriculo_vanderley.pdf)
