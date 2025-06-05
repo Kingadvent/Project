@@ -10,6 +10,7 @@ Esse é o meu portfólio pessoal, onde falo um pouco sobre mim e apresento algun
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-resumo">Resumo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -50,16 +51,16 @@ Desenvolvido meu primeiro portfólio, onde exercitei e treinei alguns conceitos 
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/LOmPDxQYg0uubbhVuhCP0v/Portf%C3%B3lio---FR---README?t=J5d0KF5hSEXZlZbK-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
-
 ## 📖 Resumo
 
  Estudante do 3º semestre de Análise e Desenvolvimento de Sistemas, com experiência na criação de sites e desenvolvimento de painéis interativos 
  para jogos. Possuo habilidades em programação e design, com foco em proporcionar experiências de usuário dinâmicas e intuitivas. Busco oportunidades
  para aplicar meus conhecimentos em projetos desafiadores e continuar evoluindo na área de desenvolvimento de sistemas. Ultimo emprego cuidado do site
  e do instagram da loja grafica onde vendemos artes e projetos 3d criado por nos.
+
+ ## :memo: Licença
+
+ Esse projeto está sob a licença MIT.
 
 ---
 
