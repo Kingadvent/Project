@@ -19,10 +19,7 @@ Esse é o meu portfólio pessoal, onde falo um pouco sobre mim e apresento algun
 </p>
 
 <br>
-
-<p align="center">
-  <img alt="home do meu projeto" src="./img/portfolio-image-home.png">
-</p>
+<br>
 
 ## 🚀 Tecnologias
 
@@ -47,14 +44,14 @@ Desenvolvido meu primeiro portfólio, onde exercitei e treinei alguns conceitos 
 
 
 ## 🔖 Layout
-
+<br>
 ### Projeto Lanchonete
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/proto/14THGQ55QUeIZw5aKgkffO/king?node-id=0-1&t=yg9xWCXVAfhJzx5n-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
+<br><br>
 
 ### Projeto Gestão de Estoque
 Você pode visualizar o sistema do projeto através [DESSE LINK](https://www.figma.com/proto/14THGQ55QUeIZw5aKgkffO/king?node-id=0-1&t=yg9xWCXVAfhJzx5n-1).
-
+<br>
 
 
 ## 📖 Resumo
