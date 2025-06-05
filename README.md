@@ -43,9 +43,7 @@ Desenvolvido meu primeiro portfólio, onde exercitei e treinei alguns conceitos 
 - [x] implementado seleção de dark e light mode para visualização da página.
 <br>
 
-
 ## 🔖 Layout
-<br>
 
 ### Projeto Lanchonete
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/proto/14THGQ55QUeIZw5aKgkffO/king?node-id=0-1&t=yg9xWCXVAfhJzx5n-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
@@ -53,6 +51,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ### Projeto Gestão de Estoque
 Você pode visualizar o sistema do projeto através [DESSE LINK](https://www.figma.com/proto/14THGQ55QUeIZw5aKgkffO/king?node-id=0-1&t=yg9xWCXVAfhJzx5n-1).
+
 <br>
 
 ## 📖 Resumo
@@ -61,6 +60,8 @@ Você pode visualizar o sistema do projeto através [DESSE LINK](https://www.fig
  para jogos. Possuo habilidades em programação e design, com foco em proporcionar experiências de usuário dinâmicas e intuitivas. Busco oportunidades
  para aplicar meus conhecimentos em projetos desafiadores e continuar evoluindo na área de desenvolvimento de sistemas. Ultimo emprego cuidado do site
  e do instagram da loja grafica onde vendemos artes e projetos 3d criado por nos.
+
+<br>
 
  ## :memo: Licença
 
