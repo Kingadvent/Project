@@ -49,11 +49,15 @@ Desenvolvido meu primeiro portfólio, onde exercitei e treinei alguns conceitos 
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/LOmPDxQYg0uubbhVuhCP0v/Portf%C3%B3lio---FR---README?t=J5d0KF5hSEXZlZbK-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+# Projeto Lanchonete
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/proto/14THGQ55QUeIZw5aKgkffO/king?node-id=0-1&t=yg9xWCXVAfhJzx5n-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+# Projeto Gestão de Estoque
+Você pode visualizar o sistema do projeto através [DESSE LINK](https://www.figma.com/proto/14THGQ55QUeIZw5aKgkffO/king?node-id=0-1&t=yg9xWCXVAfhJzx5n-1).
 
 ## 📖 Resumo
 
- Estudante do 3º semestre de Análise e Desenvolvimento de Sistemas, com experiência na criação de sites e desenvolvimento de painéis interativos 
+ Estudante do 4º semestre de Análise e Desenvolvimento de Sistemas, com experiência na criação de sites e desenvolvimento de painéis interativos 
  para jogos. Possuo habilidades em programação e design, com foco em proporcionar experiências de usuário dinâmicas e intuitivas. Busco oportunidades
  para aplicar meus conhecimentos em projetos desafiadores e continuar evoluindo na área de desenvolvimento de sistemas. Ultimo emprego cuidado do site
  e do instagram da loja grafica onde vendemos artes e projetos 3d criado por nos.
